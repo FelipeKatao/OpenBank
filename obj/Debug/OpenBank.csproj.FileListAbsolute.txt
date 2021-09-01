@@ -1,0 +1,7 @@
+C:\Users\felipe.nascimento\Documents\Cursos\OpenBank\OpenBank\bin\Debug\OpenBank.exe.config
+C:\Users\felipe.nascimento\Documents\Cursos\OpenBank\OpenBank\bin\Debug\OpenBank.exe
+C:\Users\felipe.nascimento\Documents\Cursos\OpenBank\OpenBank\bin\Debug\OpenBank.pdb
+C:\Users\felipe.nascimento\Documents\Cursos\OpenBank\OpenBank\obj\Debug\OpenBank.csprojAssemblyReference.cache
+C:\Users\felipe.nascimento\Documents\Cursos\OpenBank\OpenBank\obj\Debug\OpenBank.csproj.CoreCompileInputs.cache
+C:\Users\felipe.nascimento\Documents\Cursos\OpenBank\OpenBank\obj\Debug\OpenBank.exe
+C:\Users\felipe.nascimento\Documents\Cursos\OpenBank\OpenBank\obj\Debug\OpenBank.pdb
